@@ -1,7 +1,7 @@
 
 # Hola, soy Iván! 👋
 
-Soy economista especializado en **Ciencia de Datos** orientado al sector retail.
+Soy economista especializado en **Análisis de Datos** orientado al sector retail.
 Combino un perfil de negocio con conocimientos técnicos analíticos para transformar datos en información accionable.
 
 ### 🛠 Tech Stack
