@@ -22,6 +22,9 @@ Recomendador en cascada (popularidad + ALS) con modelo Apriori para cross-sellin
 **[Predicción de fuga de clientes (churn)](https://github.com/ivanfondo/Portafolio-Data-Science-Python/tree/main/PrediccionChurnTelco)** · Telco
 Modelos de ML (XGBoost, Random Forest) con SHAP para explicabilidad. Cuadro de mando en Streamlit.
 
+**[Optimización de precio (Pricing)](https://github.com/ivanfondo/Portafolio-Data-Science-Python/tree/main/Pricing-Dominicks)** . 
+Series temporales, econometría y ML para calcular elasticidad, demanda y precio óptimo.
+
 En el siguiente enlace puedes visualizar un dashboard desarrollado en PowerBI: https://www.youtube.com/watch?v=oGLX2WP-Spg
 
 Puedes contactarme vía LinkedIn en la biografía del perfil.
