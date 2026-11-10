@@ -16,6 +16,9 @@ Y hablando de proyectos... te invito a ver los que ya tengo desarrollados.
 
 ### 📂 Proyectos destacados
 
+**[Análisis de negocio con SQL](https://github.com/ivanfondo/Portafolio-Data-Science-Python/tree/main/sql-olist)** · E-commerce
+Análisis de Olist en PostgreSQL (Supabase): calidad del dato, ingresos por categoría y vendedor, crecimiento, retención de clientes y plazos de entrega. CTEs y funciones de ventana.
+
 **[Sistema de recomendación híbrido](https://github.com/ivanfondo/Portafolio-Data-Science-Python/tree/main/SistemaRecomendacionHibrido)** · Retail.
 Recomendador en cascada (popularidad + ALS) con modelo Apriori para cross-selling. Desplegado en Streamlit.
 
