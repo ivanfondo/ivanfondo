@@ -10,8 +10,6 @@ Combino un perfil de negocio con conocimientos técnicos analíticos para transf
 - SQL
 - Excel
 
-Actualmente me estoy centrando en aprender en profundidad **series de tiempo** para poder aplicarlas en mi siguiente proyecto, enfocado al **Pricing**.
-
 Y hablando de proyectos... te invito a ver los que ya tengo desarrollados.
 
 ### 📂 Proyectos destacados
